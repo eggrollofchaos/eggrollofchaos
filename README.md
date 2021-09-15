@@ -1,4 +1,4 @@
-### Welcome to Wei Alexander Xin's Github 👋
+# Welcome to Wei Alexander Xin's Github 👋
 
 [**I SPY: Time Series Analysis for SPY ETF**](https://github.com/eggrollofchaos/i_spy_etf_price_predictions)
 Time Series price analysis and forecast for the SPDR S&P 500 ETF Trust
