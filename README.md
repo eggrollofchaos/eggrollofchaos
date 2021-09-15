@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to Wei Alexander Xin's Github 👋
+
+[**I SPY: Time Series Analysis for SPY ETF**](https://github.com/eggrollofchaos/i_spy_etf_price_predictions)
+Time Series price analysis and forecast for the SPDR S&P 500 ETF Trust
+
+[**Zillow Housing Project for San Fracisco**](https://github.com/eggrollofchaos/zillow_housing_project)
+Time Series projections using Zillow housing data for 1 and 2-bedroom home prices in San Francisco
+
+[**Contraceptive Use in Indonesia**](https://github.com/eggrollofchaos/contraceptive-use-in-indonesia)
+Regression analysis of contraceptive use among married women in Indonesia using DHS data to examine predictors for using long-term contraception
 
 <!--
 **eggrollofchaos/eggrollofchaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
